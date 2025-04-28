@@ -2,7 +2,7 @@ import json
 from openai import OpenAI
 
 # Asenda see oma OpenAI API võtmega
-api_key = "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"
+api_key = ""
 
 # Loome OpenAI kliendi
 client = OpenAI(api_key=api_key)
